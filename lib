@@ -1,0 +1,5 @@
+Required libraries: Tkinter and pytube
+Downloading libraries:
+1. Tkinter is the native library, you don’t need to install it externally, just import, while you use it.
+2. In the Terminal or Command Prompt, type the following command to install pytube.
+   -> pip install pytube
